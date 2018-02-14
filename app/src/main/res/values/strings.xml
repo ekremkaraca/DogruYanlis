@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DogruYanlis</string>
+    <string name="true_button">Doğru</string>
+    <string name="false_button">Yanlış</string>
+    <string name="next_button">Sonraki</string>
+    <string name="correct_toast">Doğru cevap!</string>
+    <string name="incorrect_toast">Yanlış cevap!</string>
+    <string name="question_turkey">Türkiye\'nin başkenti Ankara\'dır.</string>
+    <string name="question_aze">Azerbaycan\'ın başkenti Nahçıvan\'dır.</string>
+</resources>
